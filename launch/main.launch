@@ -1,0 +1,5 @@
+<launch>
+ <include file="$(find object_recognition)/launch/camera.launch" />
+ <include file="$(find object_recognition)/launch/track.launch" />
+
+</launch>
