@@ -68,14 +68,14 @@ The recognition detecting some objects :
 
  ![plot](./images/mouse.png)
  Above figure shows the mouse being detected in the topic as seen in terminal. We also see the probability or confidence level with which the recognizer thinks this is a mouse :
- ![plot](./images/mouse_prob.png) 
+ ![plot](./images/mouse_prob.PNG) 
 
   * **Laptop detected :** 
 
- ![plot](./images/laptop.png)
+ ![plot](./images/laptop.PNG )
  Above figure shows the laptop being detected in the topic as seen in terminal. We also see the probability or confidence level with which the recognizer thinks this is a laptop :
  ![plot](./images/laptop_prob.png) 
 
  * Lol, **Shuji** it seems ! 
 
- ![plot](./images/window.png)
+ ![plot](./images/window.PNG)
