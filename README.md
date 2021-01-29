@@ -74,8 +74,8 @@ The recognition detecting some objects :
 
  ![plot](./images/laptop.PNG )
  Above figure shows the laptop being detected in the topic as seen in terminal. We also see the probability or confidence level with which the recognizer thinks this is a laptop :
- ![plot](./images/laptop_prob.png) 
+ ![plot](./images/laptop_prob.PNG) 
 
  * Lol, **Shuji** it seems ! 
 
- ![plot](./images/window.PNG)
+ ![plot](./images/window.png)
